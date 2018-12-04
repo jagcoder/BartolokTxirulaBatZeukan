@@ -1,0 +1,2 @@
+# bartoloktxirulabatzeukan
+Bartoloren txirularen repositorioa
