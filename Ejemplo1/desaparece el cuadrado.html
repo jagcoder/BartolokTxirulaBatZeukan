@@ -1,0 +1,44 @@
+<!DOCTYPE html5>
+<html lang="es" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <title></title>
+  </head>
+  <body>
+    <style>
+
+      .cuadrado {
+        background-color: dodgerblue;
+        width: 200px;
+        height: 200px;
+        box-shadow: 10px 10px;
+        /*visibility: hidden; */
+        position: absolute;
+        left: 100px;
+        top: 100px;
+
+      }
+      </style>
+
+      <div id="cuadrado1" class="cuadrado"> </div>
+
+      <script>
+
+
+
+    function ocultar() {
+      cuadrado1.style.visibility = "hidden";
+    }
+
+    cuadrado1 = document.getElementById("cuadrado1");
+
+    cuadrado1.addEventListener("click", ocultar);
+    
+
+ </script>
+
+
+
+  </body>
+</html>
