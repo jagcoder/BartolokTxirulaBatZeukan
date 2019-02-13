@@ -1,2 +1,2 @@
 # bartoloktxirulabatzeukan
-Bartoloren txirularen repositorioa
+Este es el repositorio de Jon Andoni Gomez.
